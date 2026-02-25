@@ -3,7 +3,7 @@
 Colección de 40 endpoints REST con sus respectivas consultas SQL para la gestión de usuarios, pedidos, productos y categorías.
 
 ## Link GitHub
----[Ir a Google](https://github.com/JDiego0/nodeexpress-40consultas)
+---[Ir a github](https://github.com/JDiego0/nodeexpress-40consultas)
 
 ## Consulta 1 — Usuario y sus pedidos
 **`GET /api/usuario-pedidos/:nombre`**
