@@ -5,6 +5,7 @@ description: Colección de consultas SQL organizadas por niveles de dificultad
 
 # Consultas SQL con la tabla `users`
 
+---
 Este documento contiene una serie de consultas SQL organizadas por niveles de dificultad, todas basadas en una tabla llamada `users`.
 
 ## Estructura de la tabla `users`
